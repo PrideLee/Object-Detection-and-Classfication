@@ -5,7 +5,7 @@
 
 **You can download the model form [here](https://pan.baidu.com/s/1MTfaWwfUWpCt4p0A7IMxBw), and download full report from [here](https://github.com/PrideLee/Object-Detection-and-Classfication/blob/master/FPN_git.pdf).**
 
-**You can see the demo from [here](https://github.com/PrideLee/Object-Detection-and-Classfication/blob/master/cat.mp4)**
+**You can see the demo from [here](https://github.com/PrideLee/Object-Detection-and-Classfication/blob/master/cat.mp4).**
 
 **If you want to learn more about the object detection and classification, you can follow my [Zhihu](https://zhuanlan.zhihu.com/c_1040305535475789824) column.**
 
